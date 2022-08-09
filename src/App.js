@@ -3,10 +3,10 @@ import './App.css';
 
 function App() {
   return (
-   <>
-   <h1>Beers Fucking Suck</h1>
-   <Beers />
-   </>
+    <>
+      <h1>Beers Fucking Suck</h1>
+      <Beers />
+    </>
   );
 }
 
